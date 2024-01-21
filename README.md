@@ -4,6 +4,7 @@
 
 - <b>Docker Projects</b>
   - [Wazuh - Docker](https://github.com/nunof86/wazuh)
+  - [UpTime Kuma - Docker](https://github.com/nunof86/uptimekuma)
 - <b>Ansible Playbooks</b>
 
 <h2> 🤳 Connect with me:</h2>
