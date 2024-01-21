@@ -6,6 +6,7 @@
   - [Wazuh](https://github.com/nunof86/wazuh)
   - [UpTime Kuma](https://github.com/nunof86/uptimekuma)
   - [Mailcow](https://github.com/nunof86/mailcow)
+  - [Openvas](https://github.com/nunof86/openvas)
 - <b>Non-Docker Projects</b>
 - <b>Ansible Playbooks</b>
 
