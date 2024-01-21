@@ -9,7 +9,9 @@
   - [Openvas](https://github.com/nunof86/openvas)
   - [WordPress](https://github.com/nunof86/wordpress)
 - <b>Non-Docker Projects</b>
+  - [netbox](https://github.com/nunof86/netbox)
   - [Fail2Bban](https://github.com/nunof86/fail2ban)
+  
 - <b>Ansible Playbooks</b>
 
 
