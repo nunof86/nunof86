@@ -1,6 +1,4 @@
-<h1>Hi, I'm Nuno! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Lover</a></h1>
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Docker Projects</b>
   - [Wazuh](https://github.com/nunof86/wazuh)
@@ -22,7 +20,7 @@
   - [PowerDNS and netbox](https://github.com/nunof86/python-scripts)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h1> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NunoFernandes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="NunoFernandes | Email" width="22px" src="https://www.svgrepo.com/show/521128/email-1.svg" />][Email]
