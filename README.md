@@ -11,6 +11,7 @@
 - <b>Non-Docker Projects</b>
   - [netbox](https://github.com/nunof86/netbox)
   - [Fail2Bban](https://github.com/nunof86/fail2ban)
+  - [Bind9](https://github.com/nunof86/dns-bind9)
   
 - <b>Ansible Playbooks</b>
 
