@@ -7,6 +7,7 @@
   - [UpTime Kuma](https://github.com/nunof86/uptimekuma)
   - [Mailcow](https://github.com/nunof86/mailcow)
   - [Openvas](https://github.com/nunof86/openvas)
+  - [WordPress](https://github.com/nunof86/wordpress)
 - <b>Non-Docker Projects</b>
 - <b>Ansible Playbooks</b>
 
