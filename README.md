@@ -15,7 +15,9 @@
   - [Suricata](https://github.com/nunof86/suricata)
   
 - <b>Ansible Playbooks</b>
-  - [Ansible Playbooks](https://github.com/nunof86/ansible-playbooks)
+  - [Playbooks From Projects](https://github.com/nunof86/ansible-playbooks/tree/main/debian-based/playbooks_from_projects)
+  - [System Administration](https://github.com/nunof86/ansible-playbooks/tree/main/debian-based/system_administration)
+
 - <b>Python Scripts</b>
   - [PowerDNS and netbox](https://github.com/nunof86/python-scripts)
 
