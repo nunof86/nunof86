@@ -24,6 +24,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="JoshMadakor | Email" width="22px" src="https://www.svgrepo.com/show/521128/email-1.svg" />][Email]
+
 
 [instagram]: https://www.instagram.com/nunofernandes86/
