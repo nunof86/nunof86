@@ -15,6 +15,8 @@
   - [Suricata](https://github.com/nunof86/suricata)
   
 - <b>Ansible Playbooks</b>
+- <b>Python Scripts</b>
+  - [PowerDNS and netbox](https://github.com/nunof86/python-scripts)
 
 
 <h2> 🤳 Connect with me:</h2>
