@@ -12,6 +12,7 @@
   - [netbox](https://github.com/nunof86/netbox)
   - [Fail2Bban](https://github.com/nunof86/fail2ban)
   - [Bind9](https://github.com/nunof86/dns-bind9)
+  - [Suricata](https://github.com/nunof86/suricata)
   
 - <b>Ansible Playbooks</b>
 
