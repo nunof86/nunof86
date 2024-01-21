@@ -3,10 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Docker Projects</b>
-  - [Wazuh - Docker](https://github.com/nunof86/wazuh)
-  - [UpTime Kuma - Docker](https://github.com/nunof86/uptimekuma)
-  - [Mailcow - Docker](https://github.com/nunof86/mailcow)
+  - [Wazuh](https://github.com/nunof86/wazuh)
+  - [UpTime Kuma](https://github.com/nunof86/uptimekuma)
+  - [Mailcow](https://github.com/nunof86/mailcow)
+- <b>Non-Docker Projects</b>
 - <b>Ansible Playbooks</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
