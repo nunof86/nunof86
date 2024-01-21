@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Docker Projects</b>
-  - [Wazuh - Docker](https://github.com/nunof86/ansible-playbooks/tree/main/Debian-based/Wazuh](https://github.com/nunof86/wazuh))
+  - [Wazuh - Docker](https://github.com/nunof86/wazuh)
 - <b>Ansible Playbooks</b>
 
 <h2> 🤳 Connect with me:</h2>
