@@ -6,6 +6,7 @@
   - [Mailcow](https://github.com/nunof86/mailcow)
   - [Openvas](https://github.com/nunof86/openvas)
   - [WordPress](https://github.com/nunof86/wordpress)
+  - [Pi-hole](https://github.com/nunof86/pihole)
 - <b>Non-Docker Projects</b>
   - [netbox](https://github.com/nunof86/netbox)
   - [Fail2Bban](https://github.com/nunof86/fail2ban)
