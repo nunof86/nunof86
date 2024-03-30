@@ -17,6 +17,7 @@
 - <b>Ansible Playbooks</b>
   - [Playbooks From Projects](https://github.com/nunof86/ansible-playbooks/tree/main/debian-based/playbooks_from_projects)
   - [System Administration](https://github.com/nunof86/ansible-playbooks/tree/main/debian-based/system_administration)
+  - [CIS Benchmark](https://github.com/nunof86/CIS-Benchmark)
 
 - <b>Python Scripts</b>
   - [PowerDNS and netbox](https://github.com/nunof86/python-scripts)
