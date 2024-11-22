@@ -23,6 +23,10 @@
   - [PowerDNS and netbox](https://github.com/nunof86/python-scripts)
 
 
+<h1>Curriculum Vitae:</h2>
+
+  - [CV](https://github.com/nunof86/nunof86/blob/main/cv.pdf)
+
 <h1> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NunoFernandes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
