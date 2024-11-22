@@ -31,7 +31,9 @@
 
 [<img align="left" alt="NunoFernandes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="NunoFernandes | Email" width="22px" src="https://www.svgrepo.com/show/521128/email-1.svg" />][Email]
+[<img align="left" alt="NunoFernandes | Email" width="22px" src="https://www.svgrepo.com/show/521725/linkedin.svg" />][Linkedin]
 
 
 [instagram]: https://www.instagram.com/nunofernandes86/
 [Email]: mailto:nunoagf@live.com.pt
+[Linkedin]: https://www.linkedin.com/in/nuno-fernandes-932024282/
